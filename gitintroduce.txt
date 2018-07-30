@@ -4,4 +4,4 @@ cvs one server many client
 svc like cvs
 repository meaning store place
 20170730
-create new branck is little quick 111
+create new branck is little and much quick 111
